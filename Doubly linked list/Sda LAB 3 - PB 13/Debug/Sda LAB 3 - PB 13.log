@@ -1,0 +1,8 @@
+﻿  app.cpp
+  IteratorLP.cpp
+  Lista.cpp
+  TestExtins.cpp
+  TestScurt.cpp
+  Generating Code...
+C:\Users\adria\source\repos\Arhiva Tema SDA\Sda LAB 3 - PB 13\Sda LAB 3 - PB 13\Lista.cpp(73): warning C4715: 'Lista::sterge': not all control paths return a value
+  Sda LAB 3 - PB 13.vcxproj -> C:\Users\adria\source\repos\Arhiva Tema SDA\Sda LAB 3 - PB 13\Debug\Sda LAB 3 - PB 13.exe

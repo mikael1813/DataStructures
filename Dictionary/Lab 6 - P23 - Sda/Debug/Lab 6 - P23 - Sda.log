@@ -1,0 +1,10 @@
+﻿  IteratorMD.cpp
+  App.cpp
+  MD.cpp
+  TestExtins.cpp
+C:\Users\adria\source\repos\Arhiva Tema SDA\Lab 6 - P23 - Sda\Lab 6 - P23 - Sda\TestExtins.cpp(239,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\adria\source\repos\Arhiva Tema SDA\Lab 6 - P23 - Sda\Lab 6 - P23 - Sda\TestExtins.cpp(248,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\adria\source\repos\Arhiva Tema SDA\Lab 6 - P23 - Sda\Lab 6 - P23 - Sda\TestExtins.cpp(249,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  TestScurt.cpp
+  Generating Code...
+  Lab 6 - P23 - Sda.vcxproj -> C:\Users\adria\source\repos\Arhiva Tema SDA\Lab 6 - P23 - Sda\Debug\Lab 6 - P23 - Sda.exe
