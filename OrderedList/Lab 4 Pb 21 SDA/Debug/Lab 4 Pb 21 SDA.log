@@ -1,0 +1,8 @@
+﻿  app.cpp
+  Iterator.cpp
+  LO.cpp
+C:\Users\adria\source\repos\Arhiva Tema SDA\Lab 4 Pb 21 SDA\Lab 4 Pb 21 SDA\LO.cpp(122,14): warning C4101: 'index': unreferenced local variable
+  TestExtins.cpp
+  TestScurt.cpp
+  Generating Code...
+  Lab 4 Pb 21 SDA.vcxproj -> C:\Users\adria\source\repos\Arhiva Tema SDA\Lab 4 Pb 21 SDA\Debug\Lab 4 Pb 21 SDA.exe
